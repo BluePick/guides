@@ -96,6 +96,10 @@ Here are some examples:
 title: Tables
 ---
 ```
+Preview :
+---
+title: Tables
+---
 
 - `src/pages/css/borders/index.md` ([link](https://github.com/freeCodeCamp/guides/blob/master/src/pages/css/borders/index.md))
 
@@ -104,6 +108,10 @@ title: Tables
 title: Borders
 ---
 ```
+Preview :
+---
+title: Borders
+---
 
 - `src/pages/javascript/loops/for-loop/index.md` ([link](https://github.com/freeCodeCamp/guides/blob/master/src/pages/javascript/loops/for-loop/index.md))
 
@@ -112,6 +120,11 @@ title: Borders
 title: For Loop
 ---
 ```
+
+Preview :
+---
+title: For Loop
+---
 
 However, you can include special characters in the article title.
 
